@@ -1,0 +1,6 @@
+node_modules
+constants
+cache
+artifacts
+build
+.env

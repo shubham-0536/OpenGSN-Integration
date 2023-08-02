@@ -69,7 +69,7 @@ Reference: https://docs.opengsn.org/networks/polygon/mumbai.html
 */
     const tx = await deployer.sendTransaction({
       to: simplePaymaster.address,
-      value: ethers.utils.parseEther("0.000001"),
+      value: ethers.utils.parseEther("0.001"),
     });
 
     await tx.wait();

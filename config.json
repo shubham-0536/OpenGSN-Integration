@@ -1,0 +1,11 @@
+{
+    "relayHubAddress": "0xfCEE9036EDc85cD5c12A9De6b267c4672Eb4bA1B",
+    "managerStakeTokenAddress": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "ownerAddress": "0xc3691B6E7839fFf664E2124D2401BD0dAb35A2a7",
+    "gasPriceFactor": 1,
+    "ethereumNodeUrl": "https://arb1.arbitrum.io/rpc",
+    "workerMinBalance": 0.001e18,
+    "workerTargetBalance": 0.01e18,
+    "managerMinBalance": 0.01e18,
+    "managerTargetBalance": 0.03e18
+}

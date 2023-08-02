@@ -11,7 +11,7 @@ contract simplePaymaster is BasePaymaster {
     override
     returns (string memory)
   {
-    return "3.0.0-beta.3+opengsn.simple.paymaster";
+    return "3.0.0-beta.8+opengsn.simple.paymaster";
   }
 
   function _preRelayedCall(
